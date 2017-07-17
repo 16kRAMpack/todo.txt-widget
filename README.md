@@ -1,6 +1,6 @@
 # Übersicht todo.txt widget
 
-![A screenshot showing todo.txt-widget in action](https://github.com/16kRAMpack/todo.txt-widget/screenshot.png "todo.txt widget")
+![A screenshot showing todo.txt-widget in action](https://github.com/16kRAMpack/todo.txt-widget/blob/master/screenshot.png "todo.txt widget")
 
 Made for [Übersicht](http://tracesof.net/uebersicht/)
 
